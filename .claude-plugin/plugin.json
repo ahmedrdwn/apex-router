@@ -1,0 +1,9 @@
+{
+  "name": "apex-router",
+  "version": "1.0.0",
+  "description": "Plan with Opus, build with the cheapest capable model and effort, verify every step independently, escalate only on failure, and log every routing decision.",
+  "author": {
+    "name": "Ahmed Radwan"
+  },
+  "license": "MIT"
+}
