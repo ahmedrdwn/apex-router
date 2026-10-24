@@ -1,0 +1,7 @@
+{
+  "name": "apex-router",
+  "owner": { "name": "Ahmed Radwan" },
+  "plugins": [
+    { "name": "apex-router", "source": "./", "description": "Tiered model+effort routing with independent verification and telemetry" }
+  ]
+}
